@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 1,
+        "title": "New York-Style pizza",
+        "price": "7.10",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry1.svg"
+    },
+    {
+        "_id": 2,
+        "title": "Bento Ekiben Makunchi",
+        "price": "9.50",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry2.svg"
+    },
+    {
+        "_id": 3,
+        "title": "Humburger Veggei ..",
+        "price": "6.40",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry3.svg"
+    },
+    {
+        "_id": 4,
+        "title": "Indian Cusine Briyani Buffet",
+        "price": "5.20",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry4.svg"
+    },
+    {
+        "_id": 5,
+        "title": "Chiken Tikka Buffalo Wing ..",
+        "price": "10.00",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry5.svg"
+    },
+    {
+        "_id": 6,
+        "title": "Fsish Fry Shashik Freid Fish ..",
+        "price": "10.00",
+        "description": "Lorem Ipsum Lorem Ipsum is simply and dummy text of the printing.",
+        "img": "https://www.webhuq.com/templates/food_delivery_landing_10766/assets/img/ftre_fd_dlvry6.svg"
+    }
+]

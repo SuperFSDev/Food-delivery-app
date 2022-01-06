@@ -1,0 +1,40 @@
+.react-bootstrap-drawer {
+    background-color: #282C34 !important;
+}
+
+.react-bootstrap-drawer-toc .nav-link {
+    text-decoration: none;
+    color: #fff;
+    transition: color .2s ease-out;
+    text-align: left;
+}
+.nav {
+    border-bottom: 1px solid;
+}
+/* .nav-item > .nav-link {
+    color: #fff !important;
+    text-align: left;
+} */
+.nav > a {
+    color: #fff  !important;
+    text-align: left;
+}
+.nav:hover {
+    background: darkcyan !important;
+}
+
+.dashboard {
+    color: magenta !important;
+    background: mediumturquoise;
+    margin-bottom: 1rem;
+    /* border-radius: 10%; */
+}
+
+.react-bootstrap-drawer-toggle > svg {
+    color: #fff !important;
+}
+
+/* .TopBar {
+    width: 100%;
+    position: fixed;
+} */
